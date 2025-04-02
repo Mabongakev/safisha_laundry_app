@@ -1,6 +1,7 @@
 # safisha_laundry_app
 Overview
-Safisha Laundry App is a web-based inventory management system designed to streamline laundry operations by tracking orders and managing laundry items efficiently. This project is part of my portfolio to showcase my skills in web development.
+Safisha Laundry App is a web-based inventory management system designed to streamline laundry operations by tracking orders and managing laundry items efficiently. This project is part of my portfolio to showcase my skills in web development. Link to the project
+http://safishalaundryapp.thepensionomics.com/
 Features
 •	Order Management: Displays orders received from the Safisha Create Order form.
 •	Dynamic Dashboard: View orders in a table format with details such as type of clothes, quantity, collection date, and status.
@@ -20,5 +21,4 @@ Kelvin Mabonga
 Software Engineering Student at ALX
 License
 This project is not yet licensed 
-Link to the project
-http://safishalaundryapp.thepensionomics.com/
+
