@@ -18,3 +18,7 @@ Usage
 Author
 Kelvin Mabonga
 Software Engineering Student at ALX
+License
+This project is not yet licensed 
+Link to the project
+http://safishalaundryapp.thepensionomics.com/
