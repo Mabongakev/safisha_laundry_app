@@ -21,4 +21,5 @@ Kelvin Mabonga
 Software Engineering Student at ALX
 License
 This project is not yet licensed 
-
+Blog link 
+https://medium.com/@kelvin.mabonga92/safisha-laundry-app-streamlining-laundry-management-with-tech-ad05ce1808e3
